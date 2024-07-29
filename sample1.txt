@@ -1,1 +1,4 @@
 hello my name is sahil bhatt nice to meet you
+
+git revert commit 1
+this is comparion
