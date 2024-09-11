@@ -2,4 +2,8 @@ hello my name is sahil bhatt nice to meet you
 
 git revert commit 1
 this is comparion
+<<<<<<< Updated upstream
 this is stash command , change in main file 1
+=======
+this is stash command , change in file 1
+>>>>>>> Stashed changes

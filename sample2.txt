@@ -1,1 +1,2 @@
 this is comparion 2
+this is stash command , change in file 2
